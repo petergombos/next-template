@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "name": "my-nextjs-serverless-app",
+  "builds": [{"src": "next.config.js", "use": "@now/next"}]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "serverless-nextjs-8-app",
+  "version": "1.0.0",
+  "description": "App template using NEXT.js 8 and styled-system with now deployment support.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "now-build": "next build"
+  },
+  "author": "pepegombos@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^8.0.1",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "styled-components": "^4.1.3",
+    "styled-system": "^3.2.1"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.10.0"
+  }
+}
