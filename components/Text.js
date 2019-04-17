@@ -5,7 +5,6 @@ import {
   maxWidth,
   fontSize,
   textColor,
-  bgColor,
   color,
   fontFamily,
   textAlign,
@@ -22,7 +21,6 @@ const Text = styled.div`
   ${maxWidth}
   ${fontSize}
   ${textColor}
-  ${bgColor}
   ${color}
   ${fontFamily}
   ${textAlign}
